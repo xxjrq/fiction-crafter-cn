@@ -1,10 +1,11 @@
 name: "fiction-crafter-cn"
 display_name: "中文小说工匠"
 slug: "fiction-crafter-cn"
-version: "1.0.0"
+version: "1.0.1"
 category: "writing"
 author: "xxjrq"
-description: "用作品目录管理人物、世界观、大纲、章节和连续性。"
+repository: "https://github.com/xxjrq/fiction-crafter-cn"
+description: "离线管理中文长篇小说的人物、世界观、卷纲、时间线、章节和连续性，适合多人或多 Agent 接力创作。"
 icon: "icon-512.png"
 trigger_words:
   - "长篇小说工作台"

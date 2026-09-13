@@ -1,6 +1,6 @@
 interface:
   display_name: "中文小说工匠"
-  short_description: "管理人物大纲章节与长篇连续性"
+  short_description: "离线管理中文长篇小说的人物、世界观、大纲、章节和连续性"
   icon_small: "./assets/icon-512.png"
   icon_large: "./assets/icon-512.png"
   brand_color: "#2D8A70"
